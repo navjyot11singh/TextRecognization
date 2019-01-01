@@ -1,0 +1,99 @@
+{
+  "project_info": {
+    "project_number": "344159415942",
+    "firebase_url": "https://mlkitonline-532ea.firebaseio.com",
+    "project_id": "mlkitonline-532ea",
+    "storage_bucket": "mlkitonline-532ea.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:344159415942:android:e6a34060aa3166ac",
+        "android_client_info": {
+          "package_name": "androidsingh.navjyotsingh.facedetection"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "344159415942-1ard9knkjm8t4h6gq4fqln6398olq6gq.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "androidsingh.navjyotsingh.facedetection",
+            "certificate_hash": "18df380f506c3057de548130d7d06105a843d95d"
+          }
+        },
+        {
+          "client_id": "344159415942-b3j8rq7pr6peop5ut3upevrv2lk6jjed.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBz8CYiejScm0BBVlmVxFeE9B1-WbpXPL0"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "344159415942-b3j8rq7pr6peop5ut3upevrv2lk6jjed.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:344159415942:android:703d2e8ff4cb293a",
+        "android_client_info": {
+          "package_name": "androidsingh.navjyotsingh.textreci"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "344159415942-lctr6rvcrhole0ht7d33611lnl459h5l.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "androidsingh.navjyotsingh.textreci",
+            "certificate_hash": "18df380f506c3057de548130d7d06105a843d95d"
+          }
+        },
+        {
+          "client_id": "344159415942-b3j8rq7pr6peop5ut3upevrv2lk6jjed.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBz8CYiejScm0BBVlmVxFeE9B1-WbpXPL0"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "344159415942-b3j8rq7pr6peop5ut3upevrv2lk6jjed.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
